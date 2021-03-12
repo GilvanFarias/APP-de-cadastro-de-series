@@ -6,7 +6,7 @@ namespace APP_de_cadastro_de_series
     {
         static void Main(string[] args)
         {
-            EntidadeBase minhaClasse = new EntidadeBase();
+            serie meuObjeto = new serie(); 
             Console.WriteLine("Hello World!");
         }
     }
